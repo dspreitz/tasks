@@ -1,0 +1,12 @@
+name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
+"Coburg Steinrue",,,5013.833N,01059.717E,356.0m,1,,,,
+"180WAD",,,4934.850N,00924.000E,409.0m,1,,,,
+"005AAL",,,4846.717N,01016.133E,590.0m,1,,,,
+"Coburg Steinrue",,,5013.833N,01059.717E,356.0m,1,,,,
+-----Related Tasks-----
+"141890","Coburg Steinrue","Coburg Steinrue","180WAD","005AAL","Coburg Steinrue","Coburg Steinrue"
+Options,TaskTime=03:00:00,WpDis=True,MinDis=True,RandomOrder=False,MaxPts=13
+ObsZone=0,Style=2,R1=10000m,Line=1
+ObsZone=1,Style=1,R1=10000m,A1=45,R2=500m,A2=180
+ObsZone=2,Style=1,R1=10000m,A1=45,R2=500m,A2=180
+ObsZone=3,Style=3,R1=500m,Line=1
