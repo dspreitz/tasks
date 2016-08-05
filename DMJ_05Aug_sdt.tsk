@@ -12,16 +12,16 @@
     <ObservationZone type="Cylinder" radius="7000.0"/>
   </Point>
   <Point type="Area">
-    <Waypoint name="203LEIMEN" id="0" comment="" altitude="474.0">
-      <Location longitude="7.7777833" latitude="49.27945"/>
+    <Waypoint name="035GEMUENDEN" id="0" comment="" altitude="294.0">
+      <Location longitude="7.4786167" latitude="49.8977833"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="18000.0"/>
+    <ObservationZone type="Cylinder" radius="10000.0"/>
   </Point>
   <Point type="Area">
-    <Waypoint name="003AP3 ST.WENDEL" id="0" comment="" altitude="284.0">
-      <Location longitude="7.1697167" latitude="49.46805"/>
+    <Waypoint name="100HOCKENHEIM" id="0" comment="" altitude="104.0">
+      <Location longitude="8.5591667" latitude="49.3222167"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="3000.0"/>
+    <ObservationZone type="Cylinder" radius="30000.0"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="005ZIELKREIS" id="0" comment="" altitude="360.0">
