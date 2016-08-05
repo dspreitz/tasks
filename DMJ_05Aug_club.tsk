@@ -1,23 +1,23 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="Marpingen" id="0" comment=" 123.475" altitude="351.0">
-      <Location longitude="7.0394444" latitude="49.4527778"/>
+    <Waypoint name="002AP2 EPPELBORN" id="0" comment="" altitude="363.0">
+      <Location longitude="6.9872167" latitude="49.4188833"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
-  <Point type="Turn">
+  <Point type="Area">
     <Waypoint name="012SAARBURG" id="0" comment="" altitude="482.0">
       <Location longitude="6.61445" latitude="49.6291667"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="10000.0"/>
   </Point>
-  <Point type="Turn">
+  <Point type="Area">
     <Waypoint name="094HEPPENHEIM" id="0" comment="" altitude="96.0">
       <Location longitude="8.6308333" latitude="49.6041667"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="25000.0"/>
   </Point>
-  <Point type="Turn">
+  <Point type="Area">
     <Waypoint name="169ANNWEILER" id="0" comment="" altitude="422.0">
       <Location longitude="7.9777833" latitude="49.1972167"/>
     </Waypoint>
@@ -27,7 +27,7 @@
     <Waypoint name="005ZIELKREIS" id="0" comment="" altitude="360.0">
       <Location longitude="7.03945" latitude="49.4527833"/>
     </Waypoint>
-    <ObservationZone type="Line" length="1000.0"/>
+    <ObservationZone type="Cylinder" radius="4000.0"/>
   </Point>
 </Task>
 
