@@ -1,0 +1,51 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="GP Start-Finish" id="0" comment="" altitude="700.0">
+      <Location longitude="8.4797167" latitude="48.5038833"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="5000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Bad Teinach" id="0" comment="" altitude="580.0">
+      <Location longitude="8.6911167" latitude="48.6922167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Langenbrand" id="0" comment="" altitude="705.0">
+      <Location longitude="8.6241667" latitude="48.8077833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="GP Start-Finish" id="0" comment="" altitude="700.0">
+      <Location longitude="8.4797167" latitude="48.5038833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Neustadt" id="0" comment="" altitude="900.0">
+      <Location longitude="8.2411167" latitude="47.8997167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Hohenzollern" id="0" comment="" altitude="817.0">
+      <Location longitude="8.9666667" latitude="48.3236167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Checkpoint East" id="0" comment="" altitude="610.0">
+      <Location longitude="8.5008333" latitude="48.4461167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="GP Start-Finish" id="0" comment="" altitude="700.0">
+      <Location longitude="8.4797167" latitude="48.5038833"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="600.0"/>
+  </Point>
+</Task>
+
