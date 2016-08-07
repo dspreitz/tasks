@@ -3,17 +3,29 @@
     <Waypoint name="GP Start-Finish" id="0" comment="" altitude="700.0">
       <Location longitude="8.4797167" latitude="48.5038833"/>
     </Waypoint>
-    <ObservationZone type="Line" length="5000.0"/>
+    <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Langenbrand" id="0" comment="" altitude="705.0">
-      <Location longitude="8.6241667" latitude="48.8077833"/>
+    <Waypoint name="St. Blasien" id="0" comment="" altitude="771.0">
+      <Location longitude="8.13" latitude="47.76"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Dunningen" id="0" comment="" altitude="669.0">
-      <Location longitude="8.5016667" latitude="48.2127833"/>
+    <Waypoint name="Schelklingen" id="0" comment="" altitude="537.0">
+      <Location longitude="9.7347167" latitude="48.37"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Plettenberg" id="0" comment="" altitude="988.0">
+      <Location longitude="8.81805" latitude="48.2261167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Checkpoint East" id="0" comment="" altitude="610.0">
+      <Location longitude="8.5008333" latitude="48.4461167"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
@@ -21,7 +33,7 @@
     <Waypoint name="GP Start-Finish" id="0" comment="" altitude="700.0">
       <Location longitude="8.4797167" latitude="48.5038833"/>
     </Waypoint>
-    <ObservationZone type="Line" length="500.0"/>
+    <ObservationZone type="Line" length="1000.0"/>
   </Point>
 </Task>
 
