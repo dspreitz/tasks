@@ -6,14 +6,26 @@
     <ObservationZone type="Line" length="5000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Bretten" id="0" comment="" altitude="171.0">
-      <Location longitude="8.69305" latitude="49.03695"/>
+    <Waypoint name="Mühlacker" id="0" comment="" altitude="307.0">
+      <Location longitude="8.8527833" latitude="48.9408333"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Mühlacker" id="0" comment="" altitude="307.0">
-      <Location longitude="8.8527833" latitude="48.9408333"/>
+    <Waypoint name="Gaildorf" id="0" comment="" altitude="345.0">
+      <Location longitude="9.7688833" latitude="48.9966667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Geislingen" id="0" comment="" altitude="466.0">
+      <Location longitude="9.8413833" latitude="48.6197167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Hohenzollern" id="0" comment="" altitude="817.0">
+      <Location longitude="8.9666667" latitude="48.3236167"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
