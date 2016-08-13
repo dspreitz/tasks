@@ -30,7 +30,7 @@
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="GP Start-Finish" id="0" comment="" altitude=„200.0">
+    <Waypoint name="GP Start-Finish" id="0" comment="" altitude="200.0">
       <Location longitude="8.4797167" latitude="48.5038833"/>
     </Waypoint>
     <ObservationZone type="Line" length="1000.0"/>
