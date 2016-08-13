@@ -1,6 +1,6 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="GP Start-Finish" id="0" comment="" altitude="1500.0“>
+    <Waypoint name="GP Start-Finish" id="0" comment="" altitude="1500.0">
       <Location longitude="8.4797167" latitude="48.5038833"/>
     </Waypoint>
     <ObservationZone type="Line" length="2500.0"/>
